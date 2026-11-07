@@ -1,0 +1,22 @@
+{
+  "FP16": {
+    "correct": 24,
+    "total": 30,
+    "accuracy": 0.8
+  },
+  "INT8": {
+    "correct": 25,
+    "total": 30,
+    "accuracy": 0.8333333333333334
+  },
+  "HQQ4": {
+    "correct": 23,
+    "total": 30,
+    "accuracy": 0.7666666666666667
+  },
+  "官方版": {
+    "correct": 23,
+    "total": 30,
+    "accuracy": 0.7666666666666667
+  }
+}

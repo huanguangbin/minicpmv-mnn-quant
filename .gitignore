@@ -1,0 +1,19 @@
+# ===== 模型与权重（由 scripts/02、03 下载/生成，不进 git）=====
+models/
+
+# ===== MNN 源码与编译产物（上游仓库，不进 git）=====
+mnn/
+build/
+
+# ===== Python 虚拟环境 =====
+.venv/
+
+# ===== MNN 运行时缓存 =====
+tmp_*/
+mnn_cachefile.bin
+
+
+# ===== macOS / Python =====
+.DS_Store
+__pycache__/
+*.pyc
